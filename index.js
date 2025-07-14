@@ -29,5 +29,5 @@ class Heroi{
 }
 const heroi1 = new Heroi("Hender", 49, "monge");
 heroi1.atacar();
-const heroi2 = new Heroi("Laila", 40, "ninja");
+const heroi2 = new Heroi("José", 40, "ninja");
 heroi2.atacar();
